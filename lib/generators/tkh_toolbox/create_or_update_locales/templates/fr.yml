@@ -1,6 +1,13 @@
 fr:
   
+  actions: 'actions'
+  are_you_sure:  'Etes vous sur ?'
   colon: ' :'
+  delete: 'supprimer'
+  edit: 'modifier'
+  list: 'liste'
+  new: 'nouveau'
+  name: 'nom'
   question_mark: ' ?'
   question_mark_inverted: ''
   view: 'voir'

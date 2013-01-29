@@ -1,6 +1,13 @@
 de:
   
+  actions: 'actions'
+  are_you_sure: 'Are you sure?'
   colon: ':'
+  delete: 'delete'
+  edit: 'edit'
+  list: 'list'
+  new: 'new'
+  name: 'name'
   question_mark: '?'
   question_mark_inverted: ''
   view: 'view'
