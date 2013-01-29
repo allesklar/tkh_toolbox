@@ -12,9 +12,14 @@ And then execute:
 
     $ bundle
 
+Run the following command:
+
+		$ rake tkh_toolbox:setup
+
+
 ## Usage
 
-TODO: Write usage instructions here
+There are only general purpose locale files at this point. Look for them in the config/locales folder.
 
 ## Contributing
 
