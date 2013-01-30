@@ -1,13 +1,21 @@
 es:
+
+  time:
+    formats:
+      tkh_default: "%d de %B de %Y %H:%M"
   
   actions: 'actions'
-  are_you_sure: 'Are you sure?'
+  admin_section: 'admin section'
+  are_you_sure: '¿estás seguro?'
   colon: ':'
-  delete: 'delete'
-  edit: 'edit'
+  delete: 'borrar'
+  edit: 'editar'
   list: 'list'
-  new: 'new'
   name: 'name'
+  new: 'new'
+  or: 'or'
   question_mark: '?'
   question_mark_inverted: '¿'
+  sections: 'secciones'
+  toggle: 'toggle'
   view: 'ver'

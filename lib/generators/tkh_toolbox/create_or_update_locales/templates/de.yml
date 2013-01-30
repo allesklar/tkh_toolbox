@@ -1,13 +1,21 @@
 de:
+
+  time:
+    formats:
+      tkh_default: '%d. %b %Y, %H:%M Uhr' # you don't need to worry about this for now
   
   actions: 'actions'
-  are_you_sure: 'Are you sure?'
+  admin_section: 'admin section'
+  are_you_sure: 'Bist Du sicher?'
   colon: ':'
-  delete: 'delete'
-  edit: 'edit'
+  delete: 'löschen'
+  edit: 'bearbeiten'
   list: 'list'
-  new: 'new'
   name: 'name'
+  new: 'new'
+  or: 'oder'
   question_mark: '?'
   question_mark_inverted: ''
+  sections: 'Abschnitte'
+  toggle: 'toggle'
   view: 'view'

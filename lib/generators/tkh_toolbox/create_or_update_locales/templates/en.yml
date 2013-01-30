@@ -1,13 +1,21 @@
 en:
+  
+  time:
+    formats:
+      tkh_default: "%b. %-d, '%y at %l:%M %P"
 
   actions: 'actions'
+  admin_section: 'admin section'
   are_you_sure: 'Are you sure?'
   colon: ':'
   delete: 'delete'
   edit: 'edit'
   list: 'list'
-  new: 'nouveau'
   name: 'name'
+  new: 'new'
+  or: 'or'
   question_mark: '?'
   question_mark_inverted: ''
+  sections: 'sections'
+  toggle: 'toggle'
   view: 'view'

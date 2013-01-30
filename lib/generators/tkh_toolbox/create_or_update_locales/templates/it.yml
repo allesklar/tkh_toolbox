@@ -1,6 +1,11 @@
 it:
+
+  time:
+    formats:
+      tkh_default: '%d %B %Y %H:%M' # leave this part out for now. It will become clearer later on.
   
   actions: 'actions'
+  admin_section: 'admin section'
   are_you_sure:  'Are you sure?'
   colon: ':'
   delete: 'delete'
@@ -8,6 +13,9 @@ it:
   list: 'list'
   name: 'name'
   new: 'new'
+  or: 'or'
   question_mark: '?'
   question_mark_inverted: ''
+  sections: 'sections'
+  toggle: 'toggle'
   view: 'view'
