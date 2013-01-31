@@ -4,18 +4,18 @@ de:
     formats:
       tkh_default: '%d. %b %Y, %H:%M Uhr' # you don't need to worry about this for now
   
-  actions: 'actions'
-  admin_section: 'admin section'
-  are_you_sure: 'Bist Du sicher?'
+  actions: 'Aktionen'
+  admin_section: 'Adminbereich'
+  are_you_sure: 'Bist du sicher?'
   colon: ':'
   delete: 'löschen'
   edit: 'bearbeiten'
-  list: 'list'
-  name: 'name'
-  new: 'new'
+  list: 'Liste'
+  name: 'Name'
+  new: 'neu'
   or: 'oder'
   question_mark: '?'
   question_mark_inverted: ''
   sections: 'Abschnitte'
-  toggle: 'toggle'
-  view: 'view'
+  toggle: 'toggle' # this one I don´t know. What is it?
+  view: 'Ansicht'
