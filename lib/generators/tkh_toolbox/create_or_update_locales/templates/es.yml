@@ -1,4 +1,6 @@
 es:
+  
+  full_name: 'Español'
 
   time:
     formats:
@@ -6,6 +8,7 @@ es:
   
   actions: 'actions'
   admin_section: 'admin section'
+  all: 'all'
   are_you_sure: '¿estás seguro?'
   colon: ':'
   delete: 'borrar'

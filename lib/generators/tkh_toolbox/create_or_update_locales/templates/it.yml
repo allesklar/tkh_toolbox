@@ -1,11 +1,14 @@
 it:
 
+  full_name: 'Italiano'
+
   time:
     formats:
       tkh_default: '%d %B %Y %H:%M' # leave this part out for now. It will become clearer later on.
   
   actions: 'actions'
   admin_section: 'admin section'
+  all: 'all'
   are_you_sure:  'Are you sure?'
   colon: ':'
   delete: 'delete'
