@@ -4,9 +4,13 @@ This gem is part of the tkh_cms gem suite. In here we put lots of smallish utili
 
 ## Installation
 
-Add this line to your application's Gemfile:
+For Rails 4.0.0 and above add this line to your application's Gemfile:
 
-    gem 'tkh_toolbox'
+    gem 'tkh_toolbox', '~> 0.9'
+
+For prior versions of Rails, use this:
+
+    gem 'tkh_toolbox', '< 0.9'
 
 And then execute:
 
