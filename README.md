@@ -23,7 +23,10 @@ Run the following command:
 
 ## Usage
 
-There are only general purpose locale files at this point. Look for them in the config/locales folder.
+There are general purpose locale files. Look for them in the config/locales folder.
+
+A flash view partial can be called at app/views/shared/_flash_messages.html.erb
+
 
 ## Contributing
 
