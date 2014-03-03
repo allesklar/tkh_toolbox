@@ -1,5 +1,12 @@
-# TKH Illustrations
+# TKH Toolbox
 
+
+
+## 0.9.0 and 0.9.1
+
+* Bumped version to match all rails 4 compatible tkh gems
+* Added a flash message partial but it might not work yet
+* Added the full default set of locale translations for French language
 
 
 ## 0.0.4
