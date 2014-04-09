@@ -1,6 +1,10 @@
 # TKH Toolbox
 
 
+## 0.9.2
+
+* Debugged flash message bit
+
 
 ## 0.9.0 and 0.9.1
 
