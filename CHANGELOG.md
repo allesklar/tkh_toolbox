@@ -1,6 +1,12 @@
 # TKH Toolbox
 
 
+
+## 0.9.3
+
+* Added the human_date_and_time application helper extension.
+
+
 ## 0.9.2
 
 * Debugged flash message bit

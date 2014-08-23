@@ -27,6 +27,16 @@ There are general purpose locale files. Look for them in the config/locales fold
 
 A flash view partial can be called at app/views/shared/_flash_messages.html.erb
 
+A human_date_and_time(datetime_object) application extension gives the following date outputs depending when they happened in relation to today. Examples:
+
+  when less than 15 seconds then "just now"
+  when less than 5 minutes then "a few minutes ago"
+  when today then "at 02:18 pm"
+  when yesterday then "yesterday at 02:03 pm"
+  when this week then "Wednesday at 11:48 am"
+  when this year then  "Jul. 23 at 02:12 pm"
+  when last year and earlier then "Aug. 23, 2013"
+
 
 ## Contributing
 
