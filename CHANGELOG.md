@@ -5,6 +5,7 @@
 ## 0.9.4
 
 * Improved formatting of the readme file.
+* In order to show glyphicons in flash messages, rawified the message in the partial.
 
 
 ## 0.9.3
