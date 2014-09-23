@@ -2,6 +2,11 @@
 
 
 
+## 0.9.4
+
+* Improved formatting of the readme file.
+
+
 ## 0.9.3
 
 * Added the human_date_and_time application helper extension.
