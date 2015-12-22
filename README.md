@@ -18,7 +18,7 @@ And then execute:
 
 Run the following command:
 
-		$ rake tkh_toolbox:setup
+		$ rake tkh_toolbox:install
 
 
 ## Usage
