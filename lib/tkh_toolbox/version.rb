@@ -1,3 +1,3 @@
 module TkhToolbox
-  VERSION = "0.9.4"
+  VERSION = "0.13"
 end

@@ -6,7 +6,7 @@ This gem is part of the tkh_cms gem suite. In here we put lots of smallish utili
 
 For Rails 4.0.0 and above add this line to your application's Gemfile:
 
-    gem 'tkh_toolbox', '~> 0.9'
+    gem 'tkh_toolbox', '~> 0.13'
 
 For prior versions of Rails, use this:
 
