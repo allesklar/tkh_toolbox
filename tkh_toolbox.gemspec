@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "tkh_toolbox"
   gem.version       = TkhToolbox::VERSION
   gem.authors       = ["Swami Atma"]
-  gem.email         = ["swami@TenThousandHours.eu"]
+  gem.email         = ["swamiatma@yoga108.org"]
   gem.description   = %q{Assortment of all-purpose utilities used by gems across the tkh_cms suite}
   gem.summary       = %q{Assortment of all-purpose utilities used by gems across the tkh_cms suite}
   gem.homepage      = ""
